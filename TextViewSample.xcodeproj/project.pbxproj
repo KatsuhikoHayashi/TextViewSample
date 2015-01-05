@@ -405,6 +405,7 @@
 				A82773301A536F0F00D822B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A82773311A536F0F00D822B9 /* Build configuration list for PBXNativeTarget "TextViewSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				A82773331A536F0F00D822B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

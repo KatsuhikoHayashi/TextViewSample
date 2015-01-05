@@ -2,8 +2,8 @@
 //  TextViewSampleTests.swift
 //  TextViewSampleTests
 //
-//  Created by 林克彦 on 2014/12/31.
-//  Copyright (c) 2014年 Hayashi Katsuhiko. All rights reserved.
+//  Created by Hayashidesu on 2014/12/31.
+//  Copyright (c) 2014年 Hayashidesu. All rights reserved.
 //
 
 import UIKit
